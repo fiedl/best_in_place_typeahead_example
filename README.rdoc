@@ -2,6 +2,7 @@
 
 * See it running on heroku: http://best-in-place-typeahead.herokuapp.com/
 * See the javascript file (coffee): https://github.com/fiedl/best_in_place_typeahead_example/blob/master/app/assets/javascripts/root.js.coffee
+* and the view: https://github.com/fiedl/best_in_place_typeahead_example/blob/master/app/views/root/index.html.erb
 * https://github.com/bernat/best_in_place/issues/212
 
 == License
