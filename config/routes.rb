@@ -1,4 +1,10 @@
 BestInPlaceTypeaheadExample::Application.routes.draw do
+  get "root/index"
+
+  root to: "root#index"
+
+  resources :my_models
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
